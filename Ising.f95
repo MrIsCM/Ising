@@ -1,7 +1,5 @@
 program ising
 
-	!use randomnumber_w
-
 	implicit none
 
 	integer, parameter :: n = 60 	! Lado de la red, puntos totales = n**2
